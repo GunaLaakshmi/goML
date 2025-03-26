@@ -1,0 +1,31 @@
+flight_number,departure_time,destination,status
+AI123,08:00 AM,Delhi,Delayed
+AI456,10:30 AM,Mumbai,On Time
+AI789,01:00 PM,Chennai,Cancelled
+BA101,05:45 PM,London,Delayed
+EK202,09:15 AM,Dubai,On Time
+QR303,11:50 PM,Doha,On Time
+LH404,03:20 PM,Frankfurt,Cancelled
+AF505,07:10 AM,Paris,Delayed
+SQ606,06:25 PM,Singapore,On Time
+CX707,02:40 AM,Hong Kong,On Time
+AI124,09:15 AM,Mumbai,On Time
+AI125,10:30 AM,Bangalore,Delayed
+AI126,12:00 PM,Hyderabad,On Time
+AI127,01:45 PM,Kolkata,Cancelled
+AI128,03:10 PM,Chennai,On Time
+AI129,04:30 PM,Pune,Delayed
+AI130,06:00 PM,Ahmedabad,On Time
+AI131,07:20 PM,Jaipur,On Time
+AI132,08:45 PM,Lucknow,Delayed
+AI133,09:55 PM,Goa,On Time
+AI134,11:15 PM,Chandigarh,Cancelled
+AI135,05:45 AM,Bhubaneswar,On Time
+AI136,06:30 AM,Thiruvananthapuram,Delayed
+AI137,07:45 AM,Coimbatore,On Time
+AI138,09:10 AM,Nagpur,On Time
+AI139,10:20 AM,Indore,Cancelled
+AI140,11:40 AM,Visakhapatnam,On Time
+AI141,01:00 PM,Patna,Delayed
+AI142,02:15 PM,Guwahati,On Time
+AI143,04:00 PM,Raipur,On Time
